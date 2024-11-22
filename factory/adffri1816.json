@@ -1,0 +1,9 @@
+{
+	"name": "adffri1816",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f44a0d1e-5b2e-4813-a246-7cad1700b0fe",
+		"tenantId": "3d08a7d1-7fff-43db-a156-3d2e5c8b4ffa"
+	}
+}
